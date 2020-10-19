@@ -13,4 +13,4 @@ Currently learning **machine learning** and **calculus**
 <br>
 
 ## My stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
