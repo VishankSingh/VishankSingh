@@ -11,3 +11,6 @@ Currently learning **machine learning** and **calculus**
 [<img src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png"/>](https://www.instagram.com/vishank_)
 <br>
 <br>
+
+## My stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh)](https://github.com/anuraghazra/github-readme-stats)
