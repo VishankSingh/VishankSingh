@@ -1,6 +1,6 @@
 # Hey there 
 
-I am Vishank and i am a student and a developer. I've been learning python for the past 1 year. I also have experience with HTML, CSS and programming microcontrollers.
+My name is Vishank and I am a student who loves programming
 
 ## Status
 Currently learning **machine learning** and **calculus**
