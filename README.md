@@ -1,6 +1,6 @@
 # Hey there✌✌
 
-My name is Vishank and I am a student who loves programming
+My name is Vishank and I am a student who loves programming. I am currently making websites and ML models. I have
 
 ## Status
 Currently learning **machine learning** and **calculus**
