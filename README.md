@@ -1,4 +1,4 @@
-# Hey there✌✌
+# Hey there✌
 
 My name is Vishank and I am a student who loves programming. I am currently making websites and ML models. I have experience with HTML, CSS, JS, a good amount of C++ and programming microcontrollers.
 
