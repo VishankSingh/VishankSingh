@@ -1,6 +1,6 @@
 # Hey there✌
 
-My name is **Vishank and I am a student who loves programming. I am currently making websites and ML models. I have experience with Python, HTML, CSS, JS, a good amount of C++ and programming microcontrollers.
+My name is **Vishank** and I am a student who loves programming. I am currently making websites and ML models. I have experience with Python, HTML, CSS, JS, a good amount of C++ and programming microcontrollers.
 
 ## Status
 Currently learning **machine learning** and **calculus**
