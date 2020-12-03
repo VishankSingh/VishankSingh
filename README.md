@@ -1,4 +1,4 @@
-# Hey there✌
+# Hey there
 
 My name is **Vishank** and I am a student who loves programming. I have experience with Python, HTML/CSS, JS, a good amount of C++ and programming microcontrollers.<br>
 
@@ -18,3 +18,5 @@ Currently learning **machine learning** and **calculus**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishankSingh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=VishankSingh&color=blue&style=flat)
+
+**Cosmos bless us**
