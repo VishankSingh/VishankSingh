@@ -19,4 +19,4 @@ Currently learning **machine learning** and **calculus**
 
 ![](https://komarev.com/ghpvc/?username=VishankSingh&color=blue&style=flat)
 
-**Cosmos bless us**
+
