@@ -5,7 +5,7 @@ My name is **Vishank** and I am a student who loves programming. I have experien
 PS:- I LOVE AUTOMATING STUFF
 
 ## Status
-Currently learning **machine learning** and **calculus**
+Currently learning **machine learning** 
 
 ## Socials
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/738448733615685652)
