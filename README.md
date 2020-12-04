@@ -1,4 +1,4 @@
-# Hey there
+# Hello people
 
 My name is **Vishank** and I am a student who loves programming. I have experience with Python, HTML/CSS, JS, a good amount of C++ and programming microcontrollers.<br>
 
