@@ -21,4 +21,4 @@ Currently learning **R** and **discord.py**
 
 ![](https://komarev.com/ghpvc/?username=VishankSingh&color=blue&style=flat)
 
-
+### ~COSMOS BLESS US 🖖
