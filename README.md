@@ -14,7 +14,7 @@ Currently learning **discord.py**
 
 
 ## My stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh&count_private=true&show_icons=true&bg_color=#363636)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishankSingh&hide=html,&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=VishankSingh&color=blue&style=flat)
