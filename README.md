@@ -13,7 +13,7 @@ Currently learning **R** and **discord.py**
 [<img src="https://img.icons8.com/cute-clipart/50/000000/instagram-new.png"/>](https://www.instagram.com/vishank_)
 
 
-## My stats
+## My github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most used languages
