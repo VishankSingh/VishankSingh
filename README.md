@@ -2,8 +2,6 @@
 
 My name is **Vishank** and I am a student who loves programming. I have experience with Python, HTML/CSS, JS, a good amount of C++ and programming microcontrollers.<br>
 
-PS:- I LOVE AUTOMATING STUFF
-
 ## Status
 Currently learning **R** and **discord.py**
 
