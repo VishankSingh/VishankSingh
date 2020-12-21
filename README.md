@@ -15,7 +15,7 @@ Currently working on **Discord bot** and **Online chatbot using tensorflow & fla
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishankSingh&hide=html,&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishankSingh&hide=html,&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=VishankSingh&color=blue&style=flat)
 
