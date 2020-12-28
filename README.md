@@ -3,7 +3,7 @@
 My name is **Vishank** and I am a student who loves programming. I have experience with Python, HTML, CSS, JS and programming microcontrollers.<br>
 
 ## Status
-Currently working on **personal website** and learning **C**
+Currently working on **personal website** and learning **C++**
 
 ## Socials
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/738448733615685652)
