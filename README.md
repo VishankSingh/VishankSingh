@@ -2,7 +2,7 @@
 
 My name is **Vishank** and I am a student who loves programming. I have experience with Python, HTML, CSS, JS and programming microcontrollers.<br>
 
-## Statu no
+## Stat
 Currently working on **personal website** and learning **C++** ....
 
 ## Socials
