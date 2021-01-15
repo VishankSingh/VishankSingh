@@ -7,7 +7,7 @@ Working on **personal website** and learning **deep learning**
 
 ## Socials
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/738448733615685652)
-[<img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/>](https://twit
+[<img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/>](https
 
 
 ## My github stats
