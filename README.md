@@ -9,7 +9,7 @@ Working on **personal website** and learning **deep learning**
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/738448733615685652)
 
 
-##  github stats
+## github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most used languages
