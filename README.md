@@ -2,10 +2,10 @@
 
 My name is **Vishank** and I am a student who loves programming. I have experience with Python, HTML, CSS, JS and programming microcontrollers.<br>
 
-## Status
+### Status
 Working on **personal website** and learning **deep learning** 
 
-## Contact
+### Contact
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/738448733615685652)
 
 
