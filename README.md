@@ -1,4 +1,4 @@
-# Hello peo
+# Hello pe
 
 My name is **Vishank** and I am a student who loves programming. I have experience with Python, HTML, CSS, JS and programming microcontrollers.<br>
 
