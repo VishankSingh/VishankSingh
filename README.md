@@ -6,7 +6,7 @@ My name is **Vishank** and I am a student who loves programming. I have experien
 Working on **personal website** and learning **deep learning** 
 
 
-[<img src="https://img.icons8.com/bubbles/5
+[<img src="https://img.icons8.
 
 
 ## GitHub stats
