@@ -5,7 +5,7 @@ My name is **Vishank** and I am a student who loves programming. I have experien
 ## Status
 Working on **personal website** and learning **deep learning** 
 
-## Contact
+
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.com/users/738448733615685652)
 
 
