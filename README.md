@@ -5,9 +5,6 @@ My name is Vishank and I am a student who loves programming. I have experience w
 ## Status
 Understanding **deep learning** 
 
-
-
-
 ## GitHub stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VishankSingh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
